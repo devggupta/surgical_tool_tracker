@@ -11,10 +11,7 @@ ENGG1101 — Engineering Challenges | The University of Hong Kong | January 2026
   
 - Project Structure
   surgical-tool-tracker/
-      ├── src/                  # Main source code
-      ├── models/               # YOLO model files
       ├── images/               # Project photos
-      ├── cad/                  # Fusion 360 design files
       └── README.md
   
 - Team
