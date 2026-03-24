@@ -1,18 +1,18 @@
-# 🔬 Vision Based Surgical Tool Tracking System
+# Vision Based Surgical Tool Tracking System
 
-> 🚧 **Work in Progress** — ENGG1101 Engineering Challenges | The University of Hong Kong | January 2026 – May 2026
+> **Work in Progress** — ENGG1101 Engineering Challenges | The University of Hong Kong | January 2026 – May 2026
 
 An autonomous aerial tracking system that uses computer vision to detect and monitor surgical instruments in real time, designed to assist surgeons by providing continuous tool visibility during procedures.
 
 ---
 
-## 📹 Live Demo
+## Live Demo
 
 [▶ Watch the live demo here](https://github.com/devggupta/surgical_tool_tracker/blob/main/yolo-pan-tilt-object-tracking-live-demo.mp4)
 
 ---
 
-## 📸 Gallery
+##  Gallery
 
 | Complete Build | Camera Mount | Wiring Setup |
 |---|---|---|
@@ -25,7 +25,7 @@ An autonomous aerial tracking system that uses computer vision to detect and mon
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Real-time detection** — YOLOv8-based computer vision model detects and tracks surgical tools via a Raspberry Pi 5-mounted camera
 - **Motorized tracking** — 2-DOF servo-actuated camera mount automatically follows detected instruments
@@ -33,7 +33,7 @@ An autonomous aerial tracking system that uses computer vision to detect and mon
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -43,7 +43,7 @@ An autonomous aerial tracking system that uses computer vision to detect and mon
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. Camera mounted on a 2-DOF servo rig captures a live video feed
 2. YOLOv8 model processes each frame to detect surgical instruments in real time
@@ -52,12 +52,12 @@ An autonomous aerial tracking system that uses computer vision to detect and mon
 
 ---
 
-## 👥 Team
+## Team
 
 Built by a 6-member cross-disciplinary team across Civil, Mechanical, and Computer Engineering over a structured 12-week development timeline at The University of Hong Kong.
 
 ---
 
-## 📚 Course
+## Course
 
 ENGG1101 — Engineering Challenges, The University of Hong Kong
